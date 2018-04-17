@@ -2,7 +2,6 @@ Ext.define('Shared.HtmlContainer', {
     extend: 'Ext.Container',
     xtype: 'htmlcntr',
 
-    // Just a test
     styleHtmlContent: true ,
 
     config: {
